@@ -1,4 +1,4 @@
-# Generator knockout
+# Generator knockback
 A [knockback](http://kmalakoff.github.io/knockback/) generator for [Yeoman](http://yeoman.io).
 
 ## Getting started
