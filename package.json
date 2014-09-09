@@ -1,0 +1,38 @@
+{
+  "name": "generator-knockback",
+  "version": "0.1.0",
+  "description": "A knockback generator for Yeoman",
+  "keywords": [
+    "yeoman-generator",
+    "knockback"
+  ],
+  "homepage": "https://github.com/abdulwahid24/generator-knockback",
+  "bugs": "https://github.com/abdulwahid24/generator-knockback/issues",
+  "author": {
+    "name": "Abdul Wahid",
+    "email": "abdulwahid24@gmail.com",
+    "url": "https://github.com/abdulwahid24"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdulwahid24/generator-knockback.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.17.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
