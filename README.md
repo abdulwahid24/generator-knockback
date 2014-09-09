@@ -1,4 +1,4 @@
-#Incomplete Please don't until the final release.
+#Incomplete Please don't use until the final release.
 
 # Generator knockback
 A [knockback](http://kmalakoff.github.io/knockback/) generator for [Yeoman](http://yeoman.io).
